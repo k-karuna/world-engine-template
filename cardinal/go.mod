@@ -4,6 +4,7 @@ go 1.22.1
 
 require (
 	github.com/rs/zerolog v1.32.0
+	gotest.tools/v3 v3.5.1
 	pkg.world.dev/world-engine/cardinal v1.3.2
 )
 
@@ -90,7 +91,6 @@ require (
 	google.golang.org/protobuf v1.32.0 // indirect
 	gopkg.in/DataDog/dd-trace-go.v1 v1.58.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gotest.tools/v3 v3.5.1 // indirect
 	inet.af/netaddr v0.0.0-20230525184311-b8eac61e914a // indirect
 	pkg.world.dev/world-engine/rift v1.1.0-beta.0.20240402214846-de1fc179818a // indirect
 	pkg.world.dev/world-engine/sign v1.0.1-beta // indirect
